@@ -3,7 +3,7 @@
 ## Description
 This program is designed to process data from the Ohio Univeristy 'AirWall Project' 
 It takes the average of a handful of selected cells in the provided data, but could easily be modified to average more cells or the entire table
-Written in 3/2022 by Camden Houston | ch948118@ohio.edu
+
 Please feel free to use or modify this code as needed, I've made an effort to document it for future contributors.
 
 ## Usage
