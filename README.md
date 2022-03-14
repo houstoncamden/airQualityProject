@@ -14,3 +14,5 @@ The program will automatically find all of the data files, process them, and the
 ## Requirements
 - Python
 - 'csv' and 'glob' libraries for python
+
+If you're having trouble getting the program to run and can't figure out why, feel free to email me at ch94811@ohio.edu
